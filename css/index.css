@@ -1,0 +1,146 @@
+html { 
+	background-image: url("../images/background.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+.header {
+	font-family: "Lucida Handwriting", "Brush Script MT", cursive; 
+	font-style: italic;
+	font-size: 2vw;
+	text-align: center;
+	color: #DCDAFF;	
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.image {
+	content:url("../images/book.png");
+	margin: 1em;
+	max-width: 35%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;	repeat: no-repeat;
+	attachment: fixed;
+}​
+
+.pag_tot{
+	font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+	color: #700D0D;
+}
+
+.ft_text1_1{
+	font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+	color: #700D0D;
+	width: 42%;
+    float: left;	
+    padding-left: 7.5%;
+	padding-right: 4%;
+	font-size: 20px;
+	text-align:justify;
+}
+
+.ft_text1_2{
+	font-family: "Lucida Handwriting", "Brush Script MT", cursive; 
+	color: #700D0D;
+	margin-right: 7%;
+	font-size: 20px;
+	padding-left: 54%;
+	text-align:justify;
+}	
+
+.arrow p {
+	padding-bottom: 2%;
+	margin-left: 7%;
+	margin-right: 65%;
+	font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+	color: #700D0D;
+	font-size: 20px;
+}
+
+.cont {
+	text-align: center;
+}
+
+	.cont li {
+		list-style-type: none;
+		float: left;
+		font-family: "Lucida Handwriting", "Brush Script MT", cursive; 
+		color: #700D0D;
+	}
+			
+	.cont a {
+		display: block;
+		padding: 8px;
+		background-color: #ffffff;
+		opacity: .5;
+	}
+
+	.cont ul {
+		justify-content: center;
+		display: flex;
+	}
+
+.img4 {
+	content:url("../images/page_4.png");
+	margin: 1em;
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;	repeat: no-repeat;
+	attachment: fixed;
+}
+
+.wilhelm {
+	content:url("../images/wilhelm.png");
+	margin: 1em;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;	repeat: no-repeat;
+	attachment: fixed;
+}
+
+.tbl_header{
+	color: #953D09; 
+	text-align: center; 
+	font-size: 25px;
+	font-family: "Lucida Handwriting", "Brush Script MT", cursive; 
+}
+
+.tbl_text{
+	color: #953D09; 
+	text-align:justify;
+	padding: 10px;
+	font-size: 15px;
+	font-family: Apple Chancery, cursive; 
+}
+
+.img1 {
+	content:url("../images/page_1_2.png");
+	margin: 1em;
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;	repeat: no-repeat;
+	attachment: fixed;
+}​
+
+table {
+	border: 3px solid black;
+}
